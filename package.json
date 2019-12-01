@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/getintodevops/masterclass-codeexamples/"
+    "url": "https://github.com/getsaarthak/swarm1"
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
   ],
-  "author": "miiro@getintodevops.com",
+  "author": "getmukesh@gmail.com",
   "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
